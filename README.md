@@ -19,7 +19,7 @@ I investigated how the implementation of various fitness devices accompanied imp
 + pdf Treament
 
 ## Rad Disco 1: the surge magnitude protocol, in predicting price targeted trades
-+ [SlideDoc presentation]
++ [SlideDoc presentation](https://github.com/stefanbund/MADSPortfolio/blob/main/Rad%20Disco%201_%20the%20surge%20magnitude%20protocol%2C%20in%20predicting%20price%20targeted%20trades.pdf)
 
 ## Rad Disco 2: Detecting optimally-discounted trades, in Euclidean Distance
 + [SlideDoc presentation]
