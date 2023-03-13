@@ -17,3 +17,9 @@ I used python to discover affine clusters of tradeable commodities, and investig
 ## Heartrate Efficiency Curves and Holistic Fitness Devices
 I investigated how the implementation of various fitness devices accompanied improved workout efficiency, as measured through workout intensity and heart rate graphs. Used during an introduction to data visualization course with Chris Brooks. 
 + pdf Treament
+
+## Rad Disco 1: the surge magnitude protocol, in predicting price targeted trades
++ [SlideDoc presentation]
+
+## Rad Disco 2: Detecting optimally-discounted trades, in Euclidean Distance
++ [SlideDoc presentation]
