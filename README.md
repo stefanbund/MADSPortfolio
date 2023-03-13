@@ -1,7 +1,7 @@
 # Portfolio of Data Science Projects for Stefan Bund
 During my degree at University of Michigan I produced these data science projects (Masters in Applied Data Science, MADS). I have also included research I did as principal at [rad disco](http://raddisco.com).
 
-+ Social: [linkedin](https://www.linkedin.com/in/stefanbund/)
++ [linkedin](https://www.linkedin.com/in/stefanbund/)
 + [CV / Resume](https://github.com/stefanbund/MADSPortfolio/blob/main/Stefan%20Bund%20Data%20Science%20Resume.pdf)
 + [Publications](http://dx.doi.org/10.2165/00822942-200403040-00008)
 
