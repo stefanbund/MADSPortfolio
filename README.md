@@ -2,7 +2,7 @@
 During my degree at University of Michigan I produced these data science projects (Masters in Applied Data Science, MADS). I have also included research I did as principal at [rad disco](http://raddisco.com).
 
 + [linkedin](https://www.linkedin.com/in/stefanbund/)
-+ [CV / Resume](https://github.com/stefanbund/MADSPortfolio/blob/main/Stefan%20Bund%20Data%20Science%20Resume.pdf)
++ [CV / Resume](https://docs.google.com/document/d/1mwfGmW2_hfd2S1HAthxel5YC2gYLGCcM/edit?usp=sharing&ouid=108559642540650615622&rtpof=true&sd=true)
 + [Publications](http://dx.doi.org/10.2165/00822942-200403040-00008)
 
 ## How Do Seasons Impact Markets? 
