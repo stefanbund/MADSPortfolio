@@ -1,5 +1,7 @@
 # Portfolio of Data Science Projects for Stefan Bund
-During my degree at University of Michigan I produced these data science projects (Masters in Applied Data Science, MADS)
+During my degree at University of Michigan I produced these data science projects (Masters in Applied Data Science, MADS). I have also included research I did as principal at [rad disco](http://raddisco.com).
+
+Social: [linkedin](https://www.linkedin.com/in/stefanbund/)
 ## How Do Seasons Impact Markets? 
 A study in asset prices, and tightly correlated behavior between sell volume and pessimistic economic announcements. 
 + [SlideDoc presentation](https://github.com/stefanbund/MADSPortfolio/blob/main/04-Liang-Yau-Bund_2023winter.pptx.pdf)
