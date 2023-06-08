@@ -18,7 +18,7 @@ A study on the American dependence on Chinese exports. Proposes margins by which
 I used python to discover affine clusters of tradeable commodities, and investigate how a major firm such as Citadel will use affine clusters of financial products to predict pricing. 
 + [Python notebooks](https://github.com/stefanbund/MADSPortfolio/blob/main/visualizing%20commodity%20clusters%20--%20bund.ipynb)
 
-## Heartrate Efficiency Curves and Holistic Fitness Devices
+## Directd Acyclic Graphs for Heartrate Efficiency and Holistic Fitness 
 I investigated how the implementation of various fitness devices accompanied improved workout efficiency, as measured through workout intensity and heart rate graphs. Used during an introduction to data visualization course with Chris Brooks. 
 + [pdf Treament](https://github.com/stefanbund/MADSPortfolio/blob/main/High%20Heart%20Rate-%20a%20Directed%20Graph%20Analysis.pdf)
 
