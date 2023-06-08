@@ -21,3 +21,7 @@ I used python to discover affine clusters of tradeable commodities, and investig
 ## Heartrate Efficiency Curves and Holistic Fitness Devices
 I investigated how the implementation of various fitness devices accompanied improved workout efficiency, as measured through workout intensity and heart rate graphs. Used during an introduction to data visualization course with Chris Brooks. 
 + [pdf Treament](https://github.com/stefanbund/MADSPortfolio/blob/main/High%20Heart%20Rate-%20a%20Directed%20Graph%20Analysis.pdf)
+
+## Grammar of Graphics for Time Series, and Twitter Streams
+A means of embedding highly expressive ASCI graphics (emoji) into altair area charts. A method for locating the most-expressive tweeted emoji for a real-time sports event.
++ [slide doc pdf](https://github.com/stefanbund/MADSPortfolio/blob/main/tweet%20stream%20vizualization%20per%20stefan%20bund.pdf)
