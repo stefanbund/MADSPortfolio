@@ -25,3 +25,4 @@ I investigated how the implementation of various fitness devices accompanied imp
 ## Grammar of Graphics for Time Series, and Twitter Streams
 A means of embedding highly expressive ASCI graphics (emoji) into altair area charts. A method for locating the most-expressive tweeted emoji for a real-time sports event.
 + [slide doc pdf](https://github.com/stefanbund/MADSPortfolio/blob/main/tweet%20stream%20vizualization%20per%20stefan%20bund.pdf)
++ [notebook](https://github.com/stefanbund/MADSPortfolio/blob/main/visualizing%20tweet%20time%20series%20via%20emojis.ipynb)
