@@ -26,3 +26,7 @@ I investigated how the implementation of various fitness devices accompanied imp
 A means of embedding highly expressive ASCI graphics (emoji) into altair area charts. A method for locating the most-expressive tweeted emoji for a real-time sports event.
 + [slide doc pdf](https://github.com/stefanbund/MADSPortfolio/blob/main/tweet%20stream%20vizualization%20per%20stefan%20bund.pdf)
 + [notebook](https://github.com/stefanbund/MADSPortfolio/blob/main/visualizing%20tweet%20time%20series%20via%20emojis.ipynb)
+
+## Discovering Key Causal Inference in a Consulting Consulting: A Case Study of Workforce Attrition
+Presented a solution for solving workforce atttrition at a model, case study client. I used a logistic regression model to discover most likely causes of employee turnover at an Indian manufacturing firm. Utilized a correlation matrix to discover highly correlated principal compenents, which were fed into an ROC/AUC analysis. 
++ [client presentation, as pdf](https://github.com/stefanbund/MADSPortfolio/blob/main/predicting%20causes%20of%20employee%20turnover%2C%20a%20case%20study%20using%20logistic%20regression.pdf)
