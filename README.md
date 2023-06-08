@@ -16,7 +16,6 @@ A study on the American dependence on Chinese exports. Proposes margins by which
 
 ## Locating Highly Covariant Commodity Trade Clusters
 I used python to discover affine clusters of tradeable commodities, and investigate how a major firm such as Citadel will use affine clusters of financial products to predict pricing. 
-+ [SlideDoc presentation]
 + [Python notebooks](https://github.com/stefanbund/MADSPortfolio/blob/main/visualizing%20commodity%20clusters%20--%20bund.ipynb)
 
 ## Heartrate Efficiency Curves and Holistic Fitness Devices
