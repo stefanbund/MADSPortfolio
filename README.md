@@ -9,7 +9,7 @@ During my degree at University of Michigan I produced these data science project
 Presented a solution for solving workforce atttrition at a model, case study client. I used a logistic regression model to discover most likely causes of employee turnover at an Indian manufacturing firm. Utilized a correlation matrix to discover highly correlated principal compenents, which were fed into an ROC/AUC analysis. 
 + [client presentation, as pdf](https://github.com/stefanbund/MADSPortfolio/blob/main/predicting%20causes%20of%20employee%20turnover%2C%20a%20case%20study%20using%20logistic%20regression.pdf)
 
-## How Do Seasons Impact Markets? 
+## Predictive Factors in Sell-Side Metaorders: Capitalization Flows as Precursor to Price Shifts
 A study in asset prices, and tightly correlated behavior between sell volume and pessimistic economic announcements. 
 + [SlideDoc presentation](https://github.com/stefanbund/MADSPortfolio/blob/main/04-Liang-Yau-Bund_2023winter.pptx.pdf)
 
