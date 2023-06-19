@@ -15,8 +15,7 @@ A study in asset prices, and tightly correlated behavior between sell volume and
 
 ## Can the United States Decouple from Chinese Exports?
 A study on the American dependence on Chinese exports. Proposes margins by which the US Trade Office may negotiate new trade agreements with nations within the Comprehensive and Progressive Agreement for Trans Pacific Partnership member nations, per industry sector. 
-+ [SlideDoc presentation]
-+ [Python notebooks]
++ [Python notebooks](https://github.com/stefanbund/MADSPortfolio/blob/main/bund_comp_exam_2023winter.zip)
 
 ## Locating Highly Covariant Commodity Trade Clusters
 I used python to discover affine clusters of tradeable commodities, and investigate how a major firm such as Citadel will use affine clusters of financial products to predict pricing. 
