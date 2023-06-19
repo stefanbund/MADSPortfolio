@@ -30,3 +30,8 @@ I investigated how the implementation of various fitness devices accompanied imp
 A means of embedding highly expressive ASCI graphics (emoji) into altair area charts. A method for locating the most-expressive tweeted emoji for a real-time sports event.
 + [slide doc pdf](https://github.com/stefanbund/MADSPortfolio/blob/main/tweet%20stream%20vizualization%20per%20stefan%20bund.pdf)
 + [notebook](https://github.com/stefanbund/MADSPortfolio/blob/main/visualizing%20tweet%20time%20series%20via%20emojis.ipynb)
+
+## Custom Test Train Splits for Improved Random Forest Accuracy
+A proprietary method for unbiased test train splits, improving Random Forest model accuracy. Used to reduce model complexity in unsupervised learning projects, where high degrees of dimensional complexity must be resolved, in addition to preserving unbiased samples among sequential data sets. Used to resolve a prediction model inside a personal fitness context.
++ [slide doc pdf](https://github.com/stefanbund/MADSPortfolio/blob/main/Refining%20Random%20Forest%20Models.pdf)
++ [notebook](https://github.com/stefanbund/MADSPortfolio/blob/main/devising%20custom%20test%20train%20splits%20to%20improve%20accuracy.ipynb)
