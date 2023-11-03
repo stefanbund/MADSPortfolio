@@ -5,6 +5,11 @@ During my degree at University of Michigan I produced these data science project
 + [CV / Resume](https://docs.google.com/document/d/1mwfGmW2_hfd2S1HAthxel5YC2gYLGCcM/edit?usp=sharing&ouid=108559642540650615622&rtpof=true&sd=true)
 + [Publications](http://dx.doi.org/10.2165/00822942-200403040-00008)
 
+## Predicting Ideal Trades in Volatile Markets
+Predicting short term price movements in volatile cryptocurrency markets. Used a machine learning pipeline to deliver highly accurate (97%) trade predictions for year 2022-23 in the Avalanche crypto market (AVAX-USD) on Coinbase. Built to support real time Highly Frequent Trade environments. 
++ [whitepaper](https://github.com/stefanbund/grus-code/blob/main/Predicting%20Trades%20In%20Volatile%20Markets.pdf)
++ [github](https://github.com/stefanbund/grus-code)
+  
 ## Solving Workforce Attrition: Using Causal Inference for a Case Study Client
 Presented a solution for solving workforce atttrition at a model, case study client. I used a logistic regression model to discover most likely causes of employee turnover at an Indian manufacturing firm. Utilized a correlation matrix to discover highly correlated principal compenents, which were fed into an ROC/AUC analysis. 
 + [client presentation, as pdf](https://github.com/stefanbund/MADSPortfolio/blob/main/predicting%20causes%20of%20employee%20turnover%2C%20a%20case%20study%20using%20logistic%20regression.pdf)
